@@ -66,8 +66,8 @@ export default function CarrierFraudInvestigator() {
       </h1>
 
       <p className="text-black mb-12 opacity-0 animate-fade-up [animation-delay:400ms]">
-        Enter a carrier name or website to detect potential fraud, double-brokering,
-        and strategic risks. Powered by Exa.
+        Enter a carrier name or website to detect potential fraud,
+        double-brokering, and strategic risks. Powered by Exa.
       </p>
 
       <form onSubmit={handleFraudResearch} className="space-y-6 mb-20">
@@ -147,7 +147,7 @@ export default function CarrierFraudInvestigator() {
       <footer className="fixed bottom-0 left-0 right-0 w-full py-4 bg-secondary-default border-t opacity-0 animate-fade-up [animation-delay:1200ms]">
         <div className="max-w-2xl mx-auto flex flex-col sm:flex-row items-center justify-center sm:gap-6 px-4">
           <Link
-            href="https://github.com/exa-labs/company-researcher"
+            href="https://github.com/makingkaiser/exa-fraud"
             target="_blank"
             rel="origin"
             className="text-gray-600 hover:underline cursor-pointer text-center"

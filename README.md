@@ -18,7 +18,7 @@ The tool provides a nuanced risk score and categorized indicators to help logist
 <br>
 
 ## 📊 Data Sources & Fraud Detection Logic
-> All data is fetched using Exa's powerful search API, then analyzed by Claude 3.5 Sonnet to identify risk patterns.
+> All data is fetched using Exa's powerful search API, then analyzed by Claude 4.5 Sonnet to identify risk patterns.
 
 1. **Official Records & Compliance**
    - FMCSA/DOT registration status

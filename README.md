@@ -1,11 +1,9 @@
 # 🔎 Carrier Fraud Investigator
 ### Powered by [Exa.ai](https://exa.ai) - The Search Engine for AI Applications
 
-![Screenshot](https://companyresearcher.exa.ai/opengraph-image.jpg)
-
 <br>
 
-## 🎯 What is Carrier Fraud Investigator?
+## Carrier Fraud Investigator
 
 Carrier Fraud Investigator is a powerful tool designed for the logistics industry to instantly vet trucking carriers. By simply entering a carrier's name or website, the tool leverages Exa's real-time search capabilities to identify potential risks, including:
 - **Double-brokering patterns**
@@ -17,7 +15,7 @@ The tool provides a nuanced risk score and categorized indicators to help logist
 
 <br>
 
-## 📊 Data Sources & Fraud Detection Logic
+##Data Sources & Fraud Detection Logic
 > All data is fetched using Exa's powerful search API, then analyzed by Claude 4.5 Sonnet to identify risk patterns.
 
 1. **Official Records & Compliance**
@@ -37,7 +35,7 @@ The tool provides a nuanced risk score and categorized indicators to help logist
 
 <br>
 
-## 💻 Tech Stack
+##Tech Stack
 - **Search Engine**: [Exa.ai](https://exa.ai) - Optimized for real-time web data and clean content extraction
 - **Frontend**: [Next.js](https://nextjs.org/docs) with App Router, [TailwindCSS](https://tailwindcss.com), TypeScript
 - **AI Integration**: [Vercel AI SDK](https://sdk.vercel.ai/docs/ai-sdk-core) with Anthropic's Claude 3.5 Sonnet
@@ -45,7 +43,7 @@ The tool provides a nuanced risk score and categorized indicators to help logist
 
 <br>
 
-## 🚀 Getting Started
+##Getting Started
 
 ### Prerequisites
 - Node.js
@@ -83,7 +81,7 @@ npm run dev
 
 <br>
 
-## ⭐ About [Exa.ai](https://exa.ai)
+##About [Exa.ai](https://exa.ai)
 
 This project is powered by [Exa.ai](https://exa.ai), a search engine designed specifically for AI applications. Exa's `searchAndContents` API allows the Investigator to:
 - Perform deep searches for specific carrier reputations.

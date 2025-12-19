@@ -2,7 +2,6 @@
 
 "use client";
 import { useState, FormEvent } from "react";
-import CompanySummary from "./companycontent/CompanySummary";
 import { CompanySummarySkeleton } from "./skeletons/ResearchSkeletons";
 import Link from "next/link";
 import FraudDetectionDisplay from "./fraud/FraudDetectionDisplay";

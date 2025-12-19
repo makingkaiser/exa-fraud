@@ -1,6 +1,6 @@
 {
   "technologies": {
-    "framework": "Next.js 14",
+    "framework": "Next.js 15",
     "router": "App Router",
     "language": "TypeScript",
     "styling": [
@@ -19,7 +19,7 @@
     },
     "code": {
       "style": [
-        "Follow Next.js 14 best practices",
+        "Follow Next.js 15 best practices",
         "Implement proper error handling",
         "Write clean, maintainable code"
       ]

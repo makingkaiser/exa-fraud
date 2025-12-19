@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
-import { Analytics } from '@vercel/analytics/next';
+import { Analytics } from "@vercel/analytics/next";
 
 // Load the ABCDiatype font (Regular and Bold only)
 const abcdDiatype = localFont({
@@ -22,18 +22,21 @@ const reckless = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Company Researcher",
-  description: "Instantly get detailed research insights and know everything about any company inside out.",
+  title: "Carrier Fraud Investigator",
+  description:
+    "Instantly detect potential fraud, double-brokering, and strategic risks in the trucking industry.",
   openGraph: {
-    title: 'Company Researcher',
-    description: 'Instantly get detailed research insights and know everything about any company inside out.',
-    images: ['https://companyresearcher.exa.ai/opengraph-image.jpg'],
+    title: "Carrier Fraud Investigator",
+    description:
+      "Instantly detect potential fraud, double-brokering, and strategic risks in the trucking industry.",
+    images: ["https://companyresearcher.exa.ai/opengraph-image.jpg"],
   },
   twitter: {
-    card: 'summary_large_image',
-    title: 'Company Researcher',
-    description: 'Instantly get detailed research insights and know everything about any company inside out.',
-    images: ['https://companyresearcher.exa.ai/opengraph-image.jpg'],
+    card: "summary_large_image",
+    title: "Carrier Fraud Investigator",
+    description:
+      "Instantly detect potential fraud, double-brokering, and strategic risks in the trucking industry.",
+    images: ["https://companyresearcher.exa.ai/opengraph-image.jpg"],
   },
 };
 
